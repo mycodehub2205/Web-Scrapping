@@ -1,0 +1,17 @@
+1-Create a twitter account.
+2-Log in with your Twitter user account at https://apps.Twitter.com/
+3-Click on developer.twitter.com
+4-Click ‘Create an app’
+5-Fill out the form 
+6-Go to the next page, click on the Keys and Access Tokens tab, 
+and copy your API key and API secret key. Scroll down and click on Create Access token & access token secret,
+and copy your Access token, and Access token secret
+
+
+
+
+1-Install Python
+2-pip install tweepy----on powershell
+3-Download anaconda for python-optional
+4-pip install jupyterlab--for writting the code
+5-pip install voila
