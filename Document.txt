@@ -1,0 +1,29 @@
+What is sentiment analysis?
+Sentiment Analysis is the process of ‘computationally’ determining whether a piece of  writing is positive, negative or neutral.
+It’s also known as opinion mining, deriving the opinion or attitude of a speaker.
+
+Why sentiment analysis?
+Business: In marketing field companies use it to develop their strategies, to understand customers’ feelings towards products or brand,
+how people respond to their campaigns or product launches and why consumers don’t buy some
+products.
+
+Politics: In political field, it is used to keep track of political view, 
+T detect consistency and inconsistency between statements and actions at the government level. It can be used to predict election results as well!
+
+
+Public Actions: Sentiment analysis also is used to monitor and analyse social phenomena,  
+For the spotting of potentially dangerous situations and determining the general mood of the blogosphere.
+
+
+Installed tools
+For this program, we will need Python to be installed on the computer. 
+We will be using the libraries twitter, nltk, re, csv, time, and json. You are likely to have to install the first two libraries. The rest already come with the Python interpreter. It doesn’t hurt to check that they’re up-to-date though.
+
+
+Data set splitting concept
+This is critical to fully understand the process pipeline. You only need to know the difference between Training and Test data sets, and in what context each one is used.
+
+
+Basic RESTful API knowledge
+This is not crucial, but it could help. We will be using the Twitter API here and there in the code, making normal calls to the API and dealing with the JSON objects it returns.
+
